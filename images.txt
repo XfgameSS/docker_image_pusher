@@ -1,1 +1,1 @@
-docker.io/bitnami/redis-cluster:7.0.15-debian-11-r14
+docker.io/bitnami/kafka:3.7.1-debian-12-r0
