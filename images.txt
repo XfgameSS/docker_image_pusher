@@ -1,1 +1,1 @@
-docker.io/mysql/community-operator:9.5.0-2.2.6
+huawei-csi:4.10.0
