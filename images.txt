@@ -1,1 +1,1 @@
-huawei-csi:4.10.0
+huawei-csi:4.5.0
