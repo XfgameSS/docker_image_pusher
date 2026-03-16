@@ -1,1 +1,1 @@
-kube-ovn:v1.15.5
+docker.io/kubeovn/kube-ovn:v1.15.5
