@@ -1,1 +1,1 @@
-huawei-csi:4.5.0
+kube-ovn:v1.15.5
